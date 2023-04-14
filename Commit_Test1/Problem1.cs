@@ -8,7 +8,7 @@ namespace Commit_Test1
 {
     internal class Problem1
     {
-        public static void Test1()
+        public void Test1()
         {
             string str1 = Console.ReadLine();                                  //문자열 입력 받아서 str1에 저장
             string str2 = Console.ReadLine();                                  //비교할 문자열 입력받아 str2에 저장
