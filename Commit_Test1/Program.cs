@@ -11,7 +11,7 @@
             {
                 Console.WriteLine("해당 문자열에서는 문자를 찾을수 없습니다.");
             }
-                Console.WriteLine(a);                                          // -1이 아닐경우 정답 인덱스인 a값 반환
+            Console.WriteLine(a);                                          // -1이 아닐경우 정답 인덱스인 a값 반환
         }
     }
 }
